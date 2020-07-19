@@ -34,7 +34,7 @@ $ npm install
 $ npm start
 ```
 
-![Alt Text](https://media2.giphy.com/media/J0IZgk08AnyuzA1wjZ/giphy.gif)
+![Alt Text](https://s7.gifyu.com/images/Screenrecorder-2020-07-19-16-22c40910cfdb762033.gif)
 
 ## Construido con 🛠️
 
