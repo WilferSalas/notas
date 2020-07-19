@@ -33,9 +33,7 @@ $ npm install
 ```
 $ npm start
 ```
-<p align="center">
-  ![Alt Text](https://gifyu.com/image/W2ov)
-</p>
+![Alt Text](https://gifyu.com/image/W2ov)
 
 ## Construido con 🛠️
 
